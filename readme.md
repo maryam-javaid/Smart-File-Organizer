@@ -69,8 +69,8 @@ Ideas for next versions:
 - Make category rules configurable through the GUI
 - Support nested folder scanning and recursive organization
 
-## 👤 Author
-
-Smart File Organizer is a beginner-friendly utility created to help users keep their folders organized and save time.
 
 For questions, feature ideas, or contributions, feel free to connect or open an issue.
+## 👤 Maryam Javaid
+[GitHub](github.com/maryam-javaid)
+[Email](maryamjavaidbcs164@gmail.com)
